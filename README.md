@@ -1,5 +1,5 @@
-#  Dijkstra’s Algorithm 
-it is an useful algorithm for finding the shortest paths between nodes in a graph.one of the application of path finding is for finding optimum route navaigation systems.
+#  Shortest path
+The shortest path problem is about finding a path between vertices in a graph such that the total sum of the edges weights is minimum.one of the application of path finding is for finding optimum route navaigation systems.
 
 ## Introduction
 
