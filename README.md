@@ -1,4 +1,4 @@
-#  Shortest path(Maze)
+#  Shortest path (Maze)
 The shortest path problem is about finding a path between vertices in a graph such that the total sum of the edges weights is minimum.One of the application of path finding is for finding optimum route navaigation systems.
 
 ## Introduction
