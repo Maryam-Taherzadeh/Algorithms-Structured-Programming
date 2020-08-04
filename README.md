@@ -1,87 +1,28 @@
-# Maze
+#  Dijkstra’s Algorithm 
+it is an useful algorithm for finding the shortest paths between nodes in a graph.one of the application of path finding is for finding optimum route navaigation systems.
 
-One Paragraph of project description goes here
+## Introduction
 
-## Getting Started
+The shortest path problem is one of the most fundamental problems applicable in various fields and has close relation to route navigation systems. This is a technique for multi-criteria optimization. Route guidance helps us in providing the path directions based on changing traffic conditions.  A useful routing system should have the capability to support the driver effectively in deciding on an optimum route to his preference. Dijkstra’s Algorithm  is suitable for finding not only the shortest route but also better routes. 
+https://elib.npu.edu:2053/docview/1912514872/5FD29CC6AEF5440FPQ/1?accountid=31440
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Description
 
-### Prerequisites
+1-The technology of path finding for finding optimum route navaigation systems.A useful routing system should have the capability to support the driver effectively in deciding on an optimum route to his preference. The algorithm is suitable for finding not only the shortest route but also better routes.2-Mobile Map Application for Finding Shortest Direction between Two Pair Locations Using Shortest Path Algorithm to find the shortest route. 
 
-What things you need to install the software and how to install them
+https://elib.npu.edu:2053/docview/1912514872/8191B417FFEA4E85PQ/3?accountid=31440
 
-```
-Give examples
-```
+### Application of short path
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
+The applications of shortest path computations are too numerous to cite in detail. They include situations in which an actual path is the desired output, such as robot motion planning, highway and power line engineer- ing, and network connection routing. They include problems of scheduling such as critical path computation in PERT charts. 
+https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
 ```
 
-And repeat
+## Refrences
 
-```
-until finished
-```
+https://elib.npu.edu:2053/docview/1912514872/5FD29CC6AEF5440FPQ/1?accountid=31440
+https://elib.npu.edu:2053/docview/1912514872/8191B417FFEA4E85PQ/3?accountid=31440
+https://elib.npu.edu:2053/docview/919156834/F98EAED212E14FA4PQ/5?accountid=31440
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
