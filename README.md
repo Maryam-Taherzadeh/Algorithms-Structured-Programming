@@ -1,4 +1,4 @@
-# Project Title
+# Maze
 
 One Paragraph of project description goes here
 
